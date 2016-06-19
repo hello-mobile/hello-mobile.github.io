@@ -6,3 +6,11 @@ body {
 .badge-container {
 	background-color: #FF4676;
 }
+
+.badge-container img {
+	width: 250px;
+	height: 250px;
+	display: block;
+	margin: auto;
+	padding: 25px 0 0 0;
+}
