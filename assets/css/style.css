@@ -16,6 +16,8 @@ body {
 }
 
 .badge-container h1 {
+	font-family: 'Oswald', sans-serif;
 	text-align: center;
 	color: #fff;
+	text-transform: uppercase;
 }
