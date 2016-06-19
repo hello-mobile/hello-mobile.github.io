@@ -5,6 +5,7 @@ body {
 
 .badge-container {
 	background-color: #FF4676;
+	height: 335px;
 }
 
 .badge-container img {
@@ -15,9 +16,17 @@ body {
 	padding: 25px 0 0 0;
 }
 
-.badge-container h1 {
+.badge-container .soon-message {
+	width: 450px;                                                       
+    margin: auto;
+    background-color: #FF4676;
+}
+
+.badge-container .soon-message h1 {
 	font-family: 'Oswald', sans-serif;
 	text-align: center;
 	color: #fff;
 	text-transform: uppercase;
+	margin: 0px;                                                        
+    padding: 20px;
 }
