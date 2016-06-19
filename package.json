@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/hello-mobile/hello-mobile.github.io#readme",
   "devDependencies": {
+    "browser-sync": "^2.13.0",
     "gulp": "^3.9.1"
   }
 }
