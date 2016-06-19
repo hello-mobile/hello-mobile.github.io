@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/hello-mobile/hello-mobile.github.io/issues"
   },
-  "homepage": "https://github.com/hello-mobile/hello-mobile.github.io#readme"
+  "homepage": "https://github.com/hello-mobile/hello-mobile.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
