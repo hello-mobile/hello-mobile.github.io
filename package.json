@@ -1,6 +1,6 @@
 {
   "name": "hello-mobile",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "Site oficial do evento hello mobile",
   "main": "index.js",
   "scripts": {
